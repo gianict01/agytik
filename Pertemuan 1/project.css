@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(red, rgb(22, 177, 22), blue);
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(rgb(12, 156, 175), green, rgb(2, 97, 2));
+    
+    margin: 0 auto;
+    padding: 20px;
+
+}
+
+.content{
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: aquamarine;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}
